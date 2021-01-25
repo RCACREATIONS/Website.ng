@@ -740,7 +740,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 #speakers .speaker .details {
-  background: rgba(6, 12, 34, 0.76);
+  background: rgba(3, 6, 16, 0.);
   position: absolute;
   left: 0;
   bottom: -30px;
